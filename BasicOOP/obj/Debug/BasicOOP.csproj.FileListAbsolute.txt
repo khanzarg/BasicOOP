@@ -1,0 +1,14 @@
+D:\BOOTCAMP\.NET\Day - 3\BasicOOP\BasicOOP\bin\Debug\BasicOOP.exe.config
+D:\BOOTCAMP\.NET\Day - 3\BasicOOP\BasicOOP\bin\Debug\BasicOOP.exe
+D:\BOOTCAMP\.NET\Day - 3\BasicOOP\BasicOOP\bin\Debug\BasicOOP.pdb
+D:\BOOTCAMP\.NET\Day - 3\BasicOOP\BasicOOP\obj\Debug\BasicOOP.csprojAssemblyReference.cache
+D:\BOOTCAMP\.NET\Day - 3\BasicOOP\BasicOOP\obj\Debug\BasicOOP.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\.NET\Day - 3\BasicOOP\BasicOOP\obj\Debug\BasicOOP.exe
+D:\BOOTCAMP\.NET\Day - 3\BasicOOP\BasicOOP\obj\Debug\BasicOOP.pdb
+D:\BOOTCAMP\.NET\Day-3\BasicOOP\BasicOOP\bin\Debug\BasicOOP.exe.config
+D:\BOOTCAMP\.NET\Day-3\BasicOOP\BasicOOP\bin\Debug\BasicOOP.exe
+D:\BOOTCAMP\.NET\Day-3\BasicOOP\BasicOOP\bin\Debug\BasicOOP.pdb
+D:\BOOTCAMP\.NET\Day-3\BasicOOP\BasicOOP\obj\Debug\BasicOOP.csprojAssemblyReference.cache
+D:\BOOTCAMP\.NET\Day-3\BasicOOP\BasicOOP\obj\Debug\BasicOOP.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\.NET\Day-3\BasicOOP\BasicOOP\obj\Debug\BasicOOP.exe
+D:\BOOTCAMP\.NET\Day-3\BasicOOP\BasicOOP\obj\Debug\BasicOOP.pdb
